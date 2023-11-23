@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm currently an IT student at ZHAW.  
 <!--
 **Aevus-Eye/Aevus-Eye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
